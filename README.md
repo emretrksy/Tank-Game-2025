@@ -15,6 +15,12 @@ The whole thing — rendering, physics, AI, camera — runs on a single JavaFX A
 
 ---
 
+## Demo
+
+[![Tank 2025 Demo](https://img.youtube.com/vi/izB2dJV2_Uw/0.jpg)](https://www.youtube.com/watch?v=izB2dJV2_Uw)
+
+---
+
 ## Controls
 
 | Key         | Action       |
